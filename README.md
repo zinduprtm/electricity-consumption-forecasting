@@ -164,6 +164,3 @@ Model ini dapat membantu perusahaan energi dalam:
 
 ---
 
-## 📫 Connect
-
-[Tambahkan kontak atau link portfolio Anda di sini jika diperlukan]
